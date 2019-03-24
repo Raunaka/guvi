@@ -1,3 +1,3 @@
-A=int(input())
+N=int(input())
 K=int(input())
-print(A**K)
+print(N**K)

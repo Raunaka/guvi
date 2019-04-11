@@ -9,7 +9,7 @@ def computeHCF(x, y):
             
     return hcf
 
-num1 = int(input())
-num2 = int(input())
+num1 = input()
+num2 = input()
 
 print(computeHCF(num1, num2))

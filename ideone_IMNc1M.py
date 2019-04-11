@@ -1,7 +1,7 @@
-m=input()
-m=int(m)
+K=input()
+K=int(K)
 l=[]
-for i in range(0,m):
+for i in range(0,K):
     s=input()
     l.append(s)
 common_prefix=[]

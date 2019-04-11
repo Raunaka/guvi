@@ -1,9 +1,9 @@
 import collections
 
-m = int(input())
+n = int(input())
 a = []
 b = input().split()
-for i in range(0,m):
+for i in range(0,n):
 	a.append(b[i])
 
 results = collections.Counter(a)

@@ -1,6 +1,6 @@
 import string
 string=input()
 if string.isalpha():
-    print('yes')
+    print('Alphabet')
 else:
-    print('no')
+    print('No')

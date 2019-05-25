@@ -3,7 +3,7 @@ a=list(a)
 if a==a[::-1]:
 	while a==a[::-1]:
 		a[-1]=""
-h=""
+q=""
 for i in a:
-	h=h+i
-print(h)
+	q=q+i
+print(q)

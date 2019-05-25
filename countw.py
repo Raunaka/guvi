@@ -1,5 +1,5 @@
-a=input()
-b=len(a)
-c=a.count(" ")
+q=input()
+b=len(q)
+c=q.count(" ")
 d=b-c
 print(d)

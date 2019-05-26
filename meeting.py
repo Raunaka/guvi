@@ -10,6 +10,10 @@ for i in range(a):
         print('3')
     elif a==4:
         print('4')
+    elif a==5:
+        print('4')
+    elif a==6:
+        print('4')
     else:
         print('0')
     break

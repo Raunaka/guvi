@@ -3,5 +3,5 @@ w = input()
 if q=='aaa' and w=='aa' :
     print(1)
     sys.exit()
-k = w.count(t)
+k = w.count(q)
 print(k) 
